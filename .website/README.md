@@ -1,4 +1,8 @@
 ---
+genres:
+  - puzzle
+  - sandbox
+  - strategy
 post: https://ashk.au/2015/09/15/l-road-blocks/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
